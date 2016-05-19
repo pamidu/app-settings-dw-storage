@@ -1,0 +1,70 @@
+{
+  "APP_SHELL_MY_ACCOUNT": {
+    "Name": "My Account",
+    "AppType": "HTML5SDK",
+    "AppUri": "//",
+    "ImageId": "",
+    "SecretKey": "c23cc2d146e3f3b704adf132a8573163",
+    "iconUrl": "/devportal/appicons/APP_SHELL_MY_ACCOUNT.png",
+    "__osHeaders": {
+      "Version": "{06AEF1D1-8206-11E5-AF06-42010AF00002}",
+      "Namespace": "adminduowebinfo.space.duoworld.com",
+      "Class": "application",
+      "Tenant": "123",
+      "LastUdated": "2015-11-3T8:36:49"
+    },
+    "ApplicationID": "APP_SHELL_MY_ACCOUNT",
+    "Description": "My Account App"
+  },
+  "APP_SHELL_SETTINGS": {
+    "Name": "Settings",
+    "AppType": "HTML5SDK",
+    "AppUri": "//",
+    "ImageId": "",
+    "SecretKey": "4aa7ccd3a0e37a5264ac0383cf9366f6",
+    "iconUrl": "/devportal/appicons/APP_SHELL_SETTINGS.png",
+    "__osHeaders": {
+      "Version": "{0A9E3EC8-8206-11E5-BBB5-42010AF00002}",
+      "Namespace": "adminduowebinfo.space.duoworld.com",
+      "Class": "application",
+      "Tenant": "123",
+      "LastUdated": "2015-11-3T8:36:56"
+    },
+    "ApplicationID": "APP_SHELL_SETTINGS",
+    "Description": "Settings Application"
+  },
+  "APP_SHELL_DEVSTUDIO": {
+    "Name": "Developer Tools",
+    "AppType": "HTML5SDK",
+    "AppUri": "//",
+    "ImageId": "",
+    "SecretKey": "2538336539450d17791c5b47e89030e9",
+    "iconUrl": "/devportal/appicons/APP_SHELL_DEVSTUDIO.png",
+    "__osHeaders": {
+      "Version": "{66AC45AA-8206-11E5-A4D8-42010AF00002}",
+      "Namespace": "adminduowebinfo.space.duoworld.com",
+      "Class": "application",
+      "Tenant": "123",
+      "LastUdated": "2015-11-3T8:39:30"
+    },
+    "ApplicationID": "APP_SHELL_DEVSTUDIO",
+    "Description": "Developer Tools"
+  },
+  "APP_SHELL_MARKETPLACE": {
+    "Name": "App Marketplace",
+    "AppType": "HTML5SDK",
+    "AppUri": "//",
+    "ImageId": "",
+    "SecretKey": "0a38f0d403c39c2848cb8077404c8ea7",
+    "iconUrl": "/devportal/appicons/APP_SHELL_MARKETPLACE.png",
+    "__osHeaders": {
+      "Version": "{0C7897BF-8206-11E5-8CA7-42010AF00002}",
+      "Namespace": "adminduowebinfo.space.duoworld.com",
+      "Class": "application",
+      "Tenant": "123",
+      "LastUdated": "2015-11-3T8:36:59"
+    },
+    "ApplicationID": "APP_SHELL_MARKETPLACE",
+    "Description": "App Marketplace"
+  }
+}

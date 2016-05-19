@@ -1,0 +1,66 @@
+{
+  "APP_SHELL_SETTINGS": {
+    "Name": "Settings",
+    "AppType": "HTML5SDK",
+    "AppUri": "//",
+    "ImageId": "",
+    "iconUrl": "/apps/APP_SHELL_SETTINGS?meta=icon",
+    "__osHeaders": {
+      "Version": "{C96A986C-795F-11E5-AA53-42010AF00002}",
+      "Namespace": "supunduosoftwarecom.space.duoworld.com",
+      "Class": "application",
+      "Tenant": "123",
+      "LastUdated": "2015-10-23T8:26:41"
+    },
+    "ApplicationID": "APP_SHELL_SETTINGS",
+    "Description": "Settings Application"
+  },
+  "APP_SHELL_MARKETPLACE": {
+    "Name": "App Marketplace",
+    "AppType": "HTML5SDK",
+    "AppUri": "//",
+    "ImageId": "",
+    "iconUrl": "/apps/APP_SHELL_MARKETPLACE?meta=icon",
+    "__osHeaders": {
+      "Version": "{CAD8CB17-795F-11E5-A170-42010AF00002}",
+      "Namespace": "supunduosoftwarecom.space.duoworld.com",
+      "Class": "application",
+      "Tenant": "123",
+      "LastUdated": "2015-10-23T8:26:43"
+    },
+    "ApplicationID": "APP_SHELL_MARKETPLACE",
+    "Description": "App Marketplace"
+  },
+  "APP_SHELL_MY_ACCOUNT": {
+    "Name": "My Account",
+    "AppType": "HTML5SDK",
+    "AppUri": "//",
+    "ImageId": "",
+    "iconUrl": "/apps/APP_SHELL_MY_ACCOUNT?meta=icon",
+    "__osHeaders": {
+      "Version": "{C6758917-795F-11E5-A140-42010AF00002}",
+      "Namespace": "supunduosoftwarecom.space.duoworld.com",
+      "Class": "application",
+      "Tenant": "123",
+      "LastUdated": "2015-10-23T8:26:36"
+    },
+    "ApplicationID": "APP_SHELL_MY_ACCOUNT",
+    "Description": "My Account App"
+  },
+  "APP_SHELL_MY_TENANTS": {
+    "Name": "My Tenants",
+    "AppType": "HTML5SDK",
+    "AppUri": "//",
+    "ImageId": "",
+    "iconUrl": "/apps/APP_SHELL_MY_TENANTS?meta=icon",
+    "__osHeaders": {
+      "Version": "{C7FB0A6A-795F-11E5-8CE4-42010AF00002}",
+      "Namespace": "supunduosoftwarecom.space.duoworld.com",
+      "Class": "application",
+      "Tenant": "123",
+      "LastUdated": "2015-10-23T8:26:38"
+    },
+    "ApplicationID": "APP_SHELL_MY_TENANTS",
+    "Description": "My Tenants"
+  }
+}
